@@ -1,0 +1,74 @@
+{"books":[
+    {
+    "authors": ["Dietrich Boles"],
+    "language": "de",
+    "subtitle": "Programmierung mit Java-Threads",
+    "title": "Parallele Programmierung spielend gelernt mit dem Java-Hamster-Modell"
+    },
+    
+    {
+    "authors": ["Thomas Stamford Raffles"],
+    "language": "de",
+    "subtitle": "Die Vulkane auf Java",
+    "title": "Die Vulkane auf Java"
+    },
+
+    {
+    "authors": ["Ernst-Wolfgang Dieterich"],
+    "language": "de",
+    "subtitle": "Von den Grundlagen bis zu Threads und Netzen",
+    "title": "Java 2"
+    },
+
+    {
+    "authors": ["Arnold V. Willemer"],
+    "language": "de",
+    "subtitle": "Der Sprachkurs für Einsteiger und Individualisten",
+    "title": "Java"
+    },
+    
+    {
+    "authors": ["Joachim Goll", "Cornelia Weiß", "Frank Müller"],
+    "language": "de",
+    "subtitle": "Vom Einsteiger zum Profi",
+    "title": "Java als erste Programmiersprache"
+    },
+
+    {
+    "authors":  ["Matthias Hölzl", "Allaithy Raed", "Martin Wirsing"],
+    "language": "de",
+    "subtitle": "Eine Einführung in die Software-Entwicklung mit Java",
+    "title": "Java kompakt"
+    },
+
+
+    {
+    "authors": ["Barry A. Burd"],
+    "language": "de",
+    "subtitle": "Java für Dummies",
+    "title": "Java für Dummies"
+    },
+
+    {
+    "authors": ["Dietmar Abts"],
+    "language": "de",
+    "subtitle": "Von den Grundlagen bis zu Datenbank- und Netzanwendungen",
+    "title": "Grundkurs JAVA"
+    },
+
+    {
+    "authors": ["Michael Inden"],
+    "language": "de",
+    "subtitle": "Modularisierung, Syntax- und API-Erweiterungen",
+    "title": "Java – die Neuerungen in Version 9 bis 12"
+    },
+    
+
+    {
+    "authors": ["Claudia Piemont"],
+    "language": "de",
+    "subtitle": "Der Weg zur effizienten Entwicklung von Geschäftsanwendungen im Intranet und Internet",
+    "title": "Businessorientierte Programmierung mit Java"
+    }
+    
+​]}
